@@ -1,0 +1,38 @@
+header{
+background: lightskyblue;
+margin-top: 10px;
+  position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: 0px;
+    font-size: 1em;
+    padding: 7px;
+    padding-left: 15px;
+
+}
+.accueil{
+    margin-top: -50px;
+    margin-left: 260px;
+}
+.listeclub{
+    margin-top: -47.5px;
+    margin-left: 400px;
+}
+.inscription{
+    margin-top: -47.5px;
+    margin-left: 600px;
+}
+.header_match_en_cours {
+    margin-top: -47.5px;
+    margin-left: 740px;
+}
+.connexion {
+    margin-top: -47.5px;
+    margin-left: 1100px;
+}
+.Article{
+   margin-top: -47.5px;
+    margin-left: 940px; 
+}
+
